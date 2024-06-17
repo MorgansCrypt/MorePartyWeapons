@@ -2,7 +2,6 @@ title: More Party Weapons
 originalAuthor: MorgansCrypt
 description: 'Replaces Donald and Goofy's Pallette Swap Weapons with KH1 versions'
 assets:
-#Dream Rod Over Plain Mushroom
 - name: obj/W_EX020_C0.mdlx
   method: copy
   source:
